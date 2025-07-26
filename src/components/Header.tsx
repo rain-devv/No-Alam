@@ -22,7 +22,7 @@ const Header: React.FC<HeaderProps> = ({ currentPage, onPageChange, userRole }) 
         <div className="flex justify-between items-center h-36 md:h-40">
           {/* Logo */}
           <div className="flex items-center">
-            <img src="/majid.png" alt="Logo" className="h-32 w-32 md:h-36 md:w-36" />
+            <img src="majid.png" alt="Logo" className="h-32 w-32 md:h-36 md:w-36" />
           </div>
 
           {/* Navigation */}
